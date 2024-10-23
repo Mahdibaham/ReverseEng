@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+
+.vazirmatn {
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: var(--font-weight, 400); /* مقدار پیش‌فرض 400 */
+    font-style: normal;
+}
+
+body {
+    font-family: "Vazirmatn";
+}

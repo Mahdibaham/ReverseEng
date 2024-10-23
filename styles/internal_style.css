@@ -1,0 +1,12 @@
+.sidebar {
+    direction: ltr;
+}
+div.sidebar-nav {
+    padding-left: 0.8rem;
+}
+
+.content * {
+    font-family: "Vazirmatn";
+    line-height: 2.3;
+}
+
