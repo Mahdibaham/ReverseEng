@@ -10,3 +10,6 @@ div.sidebar-nav {
     line-height: 2.3;
 }
 
+code {
+    direction: ltr;
+}
